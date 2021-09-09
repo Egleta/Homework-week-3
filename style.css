@@ -16,7 +16,7 @@ h3 {
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 60px;
 }
 
 h2 {
@@ -96,7 +96,7 @@ p {
 }
 
 .container-fluid {
-  margin: 0 100px;
+  margin: 0 20px;
 }
 .about-me-project-image {
   box-shadow: var(--box-shadow);
