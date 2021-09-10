@@ -101,3 +101,14 @@ p {
 .about-me-project-image {
   box-shadow: var(--box-shadow);
 }
+@media (max-width:400px){
+    img{
+        display: none;
+    }
+    .text-start{
+        text-align: center !important;
+    }
+    .lauch-project-button{
+        text-align: center;
+    }
+}
